@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Richard but everyone calls me by my middle name Matt which is annoying.  
 - 👀 I’m interested in finding ways to help people reach their potential. Using technology to make the world a better place.   
 - 🌱 I’m currently exploring the concept of human computer interaction.  In many cases programs are not written from the users perspective.  
-  This causes tech poor / time crunched nurses to commit med errors and prevents individuals from successfully 
+ This causes tech poor / time crunched nurses to commit med errors. It also prevents individuals from successfully 
  navigating the procedures necessary to access social services / charitable assistance.  Even in the aftermath of COVID many individuals 
  still struggle with basic computer literacy.  We need to cater more to these individuals and assist when possible either from both the front and even the back end.          
 - 💞️ I’m looking to collaborate on a version of indeed / career builder that caters to recently returned citizens.  It would have a better impact on reducing recidivism
